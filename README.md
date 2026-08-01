@@ -162,7 +162,7 @@ We run alpha regression vs QQQ and RSP with **Newey-West HAC standard errors**â€
 
 **$WEST outperformed in 8 of 9 years.** The only miss was 2024, when mega-cap tech concentration drove S&P 500 and QQQ ahead.
 
----![Cumulative Performance 2016-2024](Mississippi_West_v11_PitchDeck.png)
+---![Cumulative Performance 2016-2024](descarga.png)
 
 ## ðŸ”„ Turnover & Drawdown Analysis
 
