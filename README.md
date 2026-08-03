@@ -314,7 +314,9 @@ This repository is a **quantitative research experiment**.
 - Past performance does not guarantee future results.
 - Before any investment decision, consult a qualified financial advisor.
 
----
+## Contact
+
+Questions or ideas: sehenriquez.ch@gmail.com
 
 <p align="center">
   <b>⭐ Star this repo if you believe geography matters in markets.</b><br/>
