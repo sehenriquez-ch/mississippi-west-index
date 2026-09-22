@@ -221,4 +221,4 @@ Back-test results are indicative only. Historical performance does not guarantee
 This is a preliminary methodology document for discussion with index providers (Solactive, FTSE Russell, Bloomberg).
 Not investment advice. Not for distribution to investors.
 
-_Concept and methodology: Sebastian Henriquez — San Felipe, Chile_
+_Concept and methodology: Sebastian Henriquez email:sehriquez.ch@gmail.com — San Felipe, Chile_
