@@ -237,6 +237,6 @@ Not investment advice. Not for distribution to investors.
 
 <div align="center">
 
-_Concept and methodology: Sebastian Henriquez — San Felipe, Chile_
+_Concept and methodology: Sebastian Henriquez email: sehenriquez.ch@gmail.com
 
 </div>
